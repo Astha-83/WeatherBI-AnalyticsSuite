@@ -64,9 +64,20 @@ Each city’s data is structured with:
 
 ## 📷 Dashboard Preview
 
-> [Snapshot 1](https://github.com/user-attachments/assets/ad7a566d-2fb9-49d0-a57d-05bd09703d0e)
-> [Snapshot 2](https://github.com/user-attachments/assets/3885f406-2224-4181-b4cd-95712f78014a)
-> [Snapshot 3](https://github.com/user-attachments/assets/88f12579-927c-4f2f-8b06-6488b3a70578)
+> ![Snapshot 1](https://github.com/user-attachments/assets/ad7a566d-2fb9-49d0-a57d-05bd09703d0e)
+
+> ![Snapshot 2](https://github.com/user-attachments/assets/3885f406-2224-4181-b4cd-95712f78014a)
+
+> ![Snapshot 3](https://github.com/user-attachments/assets/88f12579-927c-4f2f-8b06-6488b3a70578)
+
+> ![Snapshot 4](https://github.com/user-attachments/assets/3d21f8a2-d879-4629-8cb7-d93f392c8bae)
+
+> ![Snapshot 5](https://github.com/user-attachments/assets/f5e77fec-05f1-4aca-9597-8009d47137df)
+
+> ![Snapshot 6](https://github.com/user-attachments/assets/99a22485-345a-44c4-a52e-15d1fa207ba1)
+
+
+
 
 For more previews check the comitted file Weather report  ....
 
